@@ -41,7 +41,7 @@ The result shows
 
 1.  Success probability: 0\~100%
     <p align="center" style="margin: 40px 0;">
-    <img style="width: 400px;" src="image/result_sample.png" />
+    <img src="/image/result_sample.png" width="450px" height="300px"></img><br/>
     </p>
 2.  Customized graphs for better strategy
 
