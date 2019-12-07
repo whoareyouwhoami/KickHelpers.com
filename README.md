@@ -26,7 +26,7 @@ Please enter
     - Date Start: date launched for crowdfunding
     - Date End: deadline for crowdfunding
     - Goal: fundraising goal, i.e. the amount of money (in terms of the currency you chose
-      that you need to complete the project
+            that you need to complete the project
     - Description: a name of your project or a short blurb that describes your project
 
 **\[Step 2\] Wait a second (The machine is hardly working\!)**
