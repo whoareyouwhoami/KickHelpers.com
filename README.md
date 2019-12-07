@@ -50,8 +50,9 @@ The result shows
    
   &nbsp;&nbsp;&nbsp;&nbsp;**2.  Customized graphs for better strategy**
 
-   See the graphs about the historical success rate or the historical
-    number of projects in the same category. Adjusting your strategy based
+   &nbsp;&nbsp;&nbsp;&nbsp;See the graphs about the historical success rate or the historical
+    number of projects in the same category. 
+   &nbsp;&nbsp;&nbsp;&nbsp;Adjusting your strategy based
     on these graphs can improve the success probability.
 
    <p align="center" style="margin: 40px 0;">
