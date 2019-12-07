@@ -40,12 +40,12 @@ machine shows about 70% accuracy for a prediction.
 
 The result shows
 
-1.  Success probability: 0\~100%
+**1.  Success probability**: 0\~100%
 
     <p align="center" style="margin: 40px 0;">
     <img src="/image/result_sample.PNG" width="450px" height="300px"></img><br/>
     </p>
-2.  Customized graphs for better strategy
+**2.  Customized graphs for better strategy**
 
     See the graphs about the historical success rate or the historical
     number of projects in the same category. Adjusting your strategy based
