@@ -29,6 +29,7 @@ Please enter
             that you need to complete the project
     - Description: a name of your project or a short blurb that describes your project
 
+
 **\[Step 2\] Wait a second (The machine is hardly working\!)**
 
 An up-to-date prediction machine learns historical data on one of the
@@ -36,17 +37,18 @@ most famous global crowdfunding platform,
 [Kickstarter](https://www.kickstarter.com), from 2005 until now. The
 machine shows about 70% accuracy for a prediction.
 
+
 **\[Step 3\] Get some result**
 
 The result shows
 
-   **1.  Success probability**: 0\~100%
+   &nbsp;&nbsp;&nbsp;&nbsp;**1.  Success probability**: 0\~100%
 
    <p align="center" style="margin: 40px 0;">
    <img src="/image/result_sample.PNG" width="450px" height="300px"></img><br/>
    </p>
    
-  **2.  Customized graphs for better strategy**
+  &nbsp;&nbsp;&nbsp;&nbsp;**2.  Customized graphs for better strategy**
 
    See the graphs about the historical success rate or the historical
     number of projects in the same category. Adjusting your strategy based
