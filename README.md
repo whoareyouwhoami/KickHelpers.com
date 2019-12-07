@@ -30,6 +30,7 @@ Please enter
     - Description: a name of your project or a short blurb that describes your project
 
 <br/>
+
 **\[Step 2\] Wait a second (The machine is hardly working\!)**
 
 An up-to-date prediction machine learns historical data on one of the
@@ -38,6 +39,7 @@ most famous global crowdfunding platform,
 machine shows about 70% accuracy for a prediction.
 
 <br/>
+
 **\[Step 3\] Get some result**
 
 The result shows
