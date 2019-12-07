@@ -29,7 +29,7 @@ Please enter
             that you need to complete the project
     - Description: a name of your project or a short blurb that describes your project
 
-
+<br/>
 **\[Step 2\] Wait a second (The machine is hardly working\!)**
 
 An up-to-date prediction machine learns historical data on one of the
@@ -37,7 +37,7 @@ most famous global crowdfunding platform,
 [Kickstarter](https://www.kickstarter.com), from 2005 until now. The
 machine shows about 70% accuracy for a prediction.
 
-
+<br/>
 **\[Step 3\] Get some result**
 
 The result shows
