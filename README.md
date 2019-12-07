@@ -46,7 +46,7 @@ The result shows
 
    &nbsp;&nbsp;&nbsp;&nbsp;**1.  Success probability**: 0\~100%
    
-   [sample]
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[sample]
    <p align="center" style="margin: 40px 0;">
    <img src="/image/result_sample.PNG" width="550px" height="400px"></img><br/>
    </p>
@@ -58,7 +58,7 @@ The result shows
     &nbsp;&nbsp;&nbsp;&nbsp;Adjusting your strategy based
     on these graphs can improve the success probability.
     
-   [sample]
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[sample]
    <p align="center" style="margin: 40px 0;">
    <img src="/image/graph_sample.PNG" width="600px" height="450px"></img><br/>
    </p>
