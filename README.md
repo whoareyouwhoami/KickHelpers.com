@@ -25,7 +25,7 @@ Please enter
     - Currency: currency used to support
     - Date Start: date launched for crowdfunding
     - Date End: deadline for crowdfunding
-    - Goal: fundraising goal, i.e. the amount of money (in terms of the currency you chose) that you need to complete the project
+    - Goal: fundraising goal, i.e. the amount of money (in terms of the currency you chose)<br/>that you need to complete the project
     - Description: a name of your project or a short blurb that describes your project
 
 **\[Step 2\] Wait a second (The machine is hardly working\!)**
@@ -46,13 +46,13 @@ The result shows
     </p>
 2.  Customized graphs for better strategy
 
-See the graphs about the historical success rate or the historical
-number of projects in the same category. Adjusting your strategy based
-on these graphs can improve the success probability.
+    See the graphs about the historical success rate or the historical
+    number of projects in the same category. Adjusting your strategy based
+    on these graphs can improve the success probability.
 
-<p align="center" style="margin: 40px 0;">
-<img src="/image/graph_sample.PNG" width="450px" height="300px"></img><br/>
-</p>
+    <p align="center" style="margin: 40px 0;">
+    <img src="/image/graph_sample.PNG" width="450px" height="300px"></img><br/>
+    </p>
 
 ## How Kickhelpers made?
 
