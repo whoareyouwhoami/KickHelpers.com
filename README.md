@@ -45,7 +45,8 @@ machine shows about 70% accuracy for a prediction.
 The result shows
 
    &nbsp;&nbsp;&nbsp;&nbsp;**1.  Success probability**: 0\~100%
-
+   
+   [sample]
    <p align="center" style="margin: 40px 0;">
    <img src="/image/result_sample.PNG" width="550px" height="400px"></img><br/>
    </p>
@@ -56,9 +57,10 @@ The result shows
     number of projects in the same category.<br/>
     &nbsp;&nbsp;&nbsp;&nbsp;Adjusting your strategy based
     on these graphs can improve the success probability.
-
+    
+   [sample]
    <p align="center" style="margin: 40px 0;">
-   <img src="/image/graph_sample.PNG" width="550px" height="400px"></img><br/>
+   <img src="/image/graph_sample.PNG" width="600px" height="450px"></img><br/>
    </p>
 
 ## How Kickhelpers made?
