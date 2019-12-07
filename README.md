@@ -64,7 +64,8 @@ trouble to start their crowdfunding projects. We give a kind guideline
 to let them know how or when to implement the project seems successful
 and how much goal is suitable for their project.
 
-  - what is crowdfunding? Crowdfunding connects startups and nonprofits
+  - What is crowdfunding? 
+    Crowdfunding connects startups and nonprofits
     that need funds for their ideas with individuals who have money and
     believe in them. Crowd-funding has become a multibillion-dollar
     industry for artists, non-profits, successful business professionals
