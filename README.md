@@ -47,7 +47,7 @@ The result shows
    &nbsp;&nbsp;&nbsp;&nbsp;**1.  Success probability**: 0\~100%
 
    <p align="center" style="margin: 40px 0;">
-   <img src="/image/result_sample.PNG" width="500px" height="350px"></img><br/>
+   <img src="/image/result_sample.PNG" width="550px" height="400px"></img><br/>
    </p>
    
   &nbsp;&nbsp;&nbsp;&nbsp;**2.  Customized graphs for better strategy**
@@ -58,7 +58,7 @@ The result shows
     on these graphs can improve the success probability.
 
    <p align="center" style="margin: 40px 0;">
-   <img src="/image/graph_sample.PNG" width="500px" height="350px"></img><br/>
+   <img src="/image/graph_sample.PNG" width="550px" height="400px"></img><br/>
    </p>
 
 ## How Kickhelpers made?
