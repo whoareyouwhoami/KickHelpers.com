@@ -16,6 +16,8 @@ Whoever wants to create and launch a successful crowdfunding campaign
 
 ## How the process works?
 
+To see how the process works, [click here](https://www.youtube.com/watch?v=Ip4ZgvXLvSI).
+
 **\[Step 1\] Enter your startup idea and plan for crowdfunding**
 
 Please enter
